@@ -8,7 +8,7 @@ add(1, 199);
 add(1, 99);
 add(9, 90);
 
-//Q2(Solved from chatGpt) = Write a function that takes a number as an argument and return true if num is even , and false if its odd
+//Q2=Write a function that takes a number as an argument and return true if num is even , and false if its odd
 function isEven(num) {
   return num % 2 === 0;
 }
